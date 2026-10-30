@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="110dp"
+    android:height="110dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- Segment 1: Terlambat (Red - #FF5252) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF5252"
+        android:strokeWidth="12"
+        android:strokeLineCap="butt"
+        android:pathData="M 84,48 A 36,36 0 0,1 73.5,73.5"/>
+
+    <!-- Segment 2: Dalam Proses (Yellow - #FFCA28) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFCA28"
+        android:strokeWidth="12"
+        android:strokeLineCap="butt"
+        android:pathData="M 73.5,73.5 A 36,36 0 0,1 22.5,73.5"/>
+
+    <!-- Segment 3: Belum Dikerjakan (Purple - #5C6BC0) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#5C6BC0"
+        android:strokeWidth="12"
+        android:strokeLineCap="butt"
+        android:pathData="M 22.5,73.5 A 36,36 0 0,1 13.2,57.3"/>
+
+    <!-- Segment 4: Selesai (Green - #00FF87) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00FF87"
+        android:strokeWidth="12"
+        android:strokeLineCap="butt"
+        android:pathData="M 13.2,57.3 A 36,36 1 1,1 84,48"/>
+
+</vector>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="28dp"
+    android:height="28dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Bell Dome Arch -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M 7,15 V 10 C 7,6.7 9.2,4 12,4 C 14.8,4 17,6.7 17,10 V 15" />
+
+    <!-- Bell Bottom Rim Bar -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M 4,15 H 20" />
+
+    <!-- Bell Clapper -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 10,17 C 10,18.3 10.9,19.5 12,19.5 C 13.1,19.5 14,18.3 14,17 Z" />
+</vector>

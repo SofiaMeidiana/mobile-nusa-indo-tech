@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Badan kalender biru tua -->
+    <path
+        android:fillColor="#1D2D42"
+        android:pathData="M4,7C4,5.89 4.89,5 6,5H18C19.1,5 20,5.89 20,7V20C20,21.1 19.1,22 18,22H6C4.89,22 4,21.1 4,20V7Z"/>
+    <!-- Grid 4 kotak per baris (3 baris x 4 kolom) warna putih -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M7,10H9V12H7V10ZM10,10H12V12H10V10ZM13,10H15V12H13V10ZM16,10H18V12H16V10ZM7,14H9V16H7V14ZM10,14H12V16H10V14ZM13,14H15V16H13V14ZM16,14H18V16H16V14ZM7,18H9V20H7V18ZM10,18H12V20H10V18ZM13,18H15V20H13V18ZM16,18H18V20H16V18Z"/>
+    <path
+        android:fillColor="#1D2D42"
+        android:strokeColor="#FDF3E3"
+        android:strokeWidth="1.0"
+        android:pathData="M7,-1C6.45,-1 6,-0.55 6,0V7C6,7.55 6.45,8 7,8C7.55,8 8,7.55 8,7V0C8,-0.55 7.55,-1 7,-1ZM17,-1C16.45,-1 16,-0.55 16,0V7C16,7.55 16.45,8 17,8C17.55,8 18,7.55 18,5V0C18,-0.55 17.55,-1 17,-1Z"/>
+</vector>

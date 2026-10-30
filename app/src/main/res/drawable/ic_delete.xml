@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Top Handle Loop -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M9,2C9,1.17 9.67,0.5 10.5,0.5H13.5C14.33,0.5 15,1.17 15,2V3.5H9V2Z" />
+
+    <!-- Lid Rim (Wide Overhang with rounded ends) -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M1.5,4.5C1.5,3.95 1.95,3.5 2.5,3.5H21.5C22.05,3.5 22.5,3.95 22.5,4.5C22.5,5.05 22.05,5.5 21.5,5.5H2.5C1.95,5.5 1.5,5.05 1.5,4.5Z" />
+
+    <!-- Main Can Body (Trapezoidal shape with rounded bottom) and Vertical Slots -->
+    <path
+        android:fillColor="#E53935"
+        android:fillType="evenOdd"
+        android:pathData="M4.1,7H19.9L18.35,19.33C18.2,20.5 17.2,21.4 16,21.4H8C6.8,21.4 5.8,20.5 5.65,19.33L4.1,7ZM9.5,10.5C9.22,10.5 9,10.72 9,11V17.5C9,17.78 9.22,18 9.5,18C9.78,18 10,17.78 10,17.5V11C10,10.72 9.78,10.5 9.5,10.5ZM14.5,10.5C14.22,10.5 14,10.72 14,11V17.5C14,17.78 14.22,18 14.5,18C14.78,18 15,17.78 15,17.5V11C15,10.72 14.78,10.5 14.5,10.5Z" />
+</vector>

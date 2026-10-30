@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Square Box Frame with top-right opening -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M11,4H5C3.89,4 3,4.89 3,6V19C3,20.11 3.89,21 5,21H18C19.11,21 20,20.11 20,19V13" />
+
+    <!-- Solid/Filled Pencil matching the reference image style -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M18.85,2.15C19.63,1.37 20.9,1.37 21.68,2.15C22.46,2.93 22.46,4.2 21.68,4.98L20.5,6.16L17.84,3.5L18.85,2.15Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M16.43,4.91L6.5,14.84V17.5H9.16L19.09,7.57L16.43,4.91Z" />
+</vector>

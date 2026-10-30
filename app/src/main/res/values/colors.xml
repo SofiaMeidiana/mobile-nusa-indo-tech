@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow_primary">#F5AB1A</color>
+    <color name="yellow_accent">#F8BE52</color>
+    <color name="yellow_light">#FFF4D6</color>
+    <color name="text_primary">#111111</color>
+    <color name="text_secondary">#555555</color>
+    <color name="text_muted">#888888</color>
+    <color name="bg_splash">#FFFFFF</color>
+
+    <color name="navy_primary">#344A67</color>
+    <color name="navy_dark">#1D2D42</color>
+    <color name="gray_hint">#A0AEC0</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

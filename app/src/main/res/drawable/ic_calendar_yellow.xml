@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Badan kalender putih penuh -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M4,7C4,5.89 4.89,5 6,5H18C19.1,5 20,5.89 20,7V20C20,21.1 19.1,22 18,22H6C4.89,22 4,21.1 4,20V7Z"/>
+    <!-- Grid 4 kotak per baris (3 baris x 4 kolom) warna kuning -->
+    <path
+        android:fillColor="#F8BE52"
+        android:pathData="M7,10H9V12H7V10ZM10,10H12V12H10V10ZM13,10H15V12H13V10ZM16,10H18V12H16V10ZM7,14H9V16H7V14ZM10,14H12V16H10V14ZM13,14H15V16H13V14ZM16,14H18V16H16V14ZM7,18H9V20H7V18ZM10,18H12V20H10V18ZM13,18H15V20H13V18ZM16,18H18V20H16V18Z"/>
+    <!-- Dua antena kapsul melengkung dengan isi putih dan pinggir (outline) kuning -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#F8BE52"
+        android:strokeWidth="1.0"
+        android:pathData="M7,0C6.45,0 6,0.45 6,1V8C6,8.55 6.45,9 7,9C7.55,9 8,8.55 8,8V1C8,0.45 7.55,0 7,0ZM17,0C16.45,0 16,0.45 16,1V8C16,8.55 16.45,9 17,9C17.55,9 18,8.55 18,6V1C18,0.45 17.55,0 17,0Z"/>
+</vector>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Document Outline with Folded Corner -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M13,2.5 H7 C5.62,2.5 4.5,3.62 4.5,5 V19 C4.5,20.38 5.62,21.5 7,21.5 H17 C18.38,21.5 19.5,20.38 19.5,19 V9 L13,2.5 Z" />
+
+    <!-- Folded Corner Lines -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M13,2.5 V9 H19.5" />
+
+    <!-- 3 Bar Chart Columns Inside -->
+    <!-- Bar 1 (Left - Shortest) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M7.8,15 H9.8 V18.5 H7.8 Z" />
+
+    <!-- Bar 2 (Middle - Medium) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M11,13 H13 V18.5 H11 Z" />
+
+    <!-- Bar 3 (Right - Tallest) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M14.2,11 H16.2 V18.5 H14.2 Z" />
+</vector>

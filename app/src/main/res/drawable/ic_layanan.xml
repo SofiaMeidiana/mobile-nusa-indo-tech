@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Open head circle / headset arc -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M15,12.5C16.2,11.1 17,9.1 17,7a5,5 0,1 0,-10 0c0,2.1 0.8,4.1 2,5.5 M13,15.5c-0.6,0.2 -1.2,0.3 -1.8,0.3" />
+
+    <!-- Shoulders -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M6,20v-1a4,4 0,0 1,4 -4h4a4,4 0,0 1,4 4v1"/>
+</vector>
